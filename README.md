@@ -1,4 +1,4 @@
-## [Top 10 Property Essentials]
+## Top 10 Property Essentials
 * Background: The company had many properties, each of which had 10 areas that inspectors were required to assess; inspectors left comments regarding the condition of each area
 * Result: Produced a Power BI dashboard that allows business analysts to extract information from 5,000+ inspectors’ comments regarding the condition of 5,000+ 
   properties. 
